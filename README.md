@@ -72,7 +72,7 @@ Para simular o uso do modelo em um ambiente real, foi desenvolvida uma API REST 
 1.  **Clone o Repositório:**
     ```bash
     git clone [https://github.com/Eduardochimchek/cifar10-cnn-classifier.git](https://github.com/Eduardochimchek/cifar10-cnn-classifier.git)
-    cd seu_projeto_cnn
+    cd cifar10-cnn-classifier
     ```
     (Se você ainda não tem um repositório, basta navegar até a pasta do projeto.)
 
