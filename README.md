@@ -142,12 +142,3 @@ Sinta-se à vontade para explorar, modificar e aprimorar este projeto. Sugestõe
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-**Observações:**
-
-* **`Eduardochimchek/cifar10-cnn-classifier` e `seu_projeto_cnn`:** Lembre-se de substituir `Eduardochimchek/cifar10-cnn-classifier` pelo seu nome de usuário do GitHub e `seu_projeto_cnn` pelo nome real do seu repositório.
-* **`modelo_cifar10.h5`:** Certifique-se de que este arquivo está na raiz do seu projeto, ao lado do `CIFAR10_CNN_COMPLETO.ipynb`.
-* **Caminhos:** Ajuste os caminhos nos exemplos de código (`test_api_troubleshoot.py` e `test_predict.http`) para refletir a localização real das suas imagens de teste.
-* **Licença:** Adicione uma licença ao seu projeto. A licença MIT é uma escolha comum e permissiva.
-
-Este `README.md` oferece uma visão completa e profissional do seu projeto para qualquer um que visite seu repositório!
